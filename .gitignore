@@ -1,0 +1,8 @@
+*.xyz
+*.tsv
+Presentation
+ljmd.dSYM
+Figures
+*.mp4
+.DS_Store
+*.o
